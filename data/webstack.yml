@@ -14,7 +14,8 @@
       description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
     - title: 二维码演示
       qrcode: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://freedns.afraid.org/
-      logo: assets/images/favicon.png
+      logo: https://t3.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=128&url=https://freedns.afraid.org/
+      url: https://freedns.afraid.org/
       description: 二维码演示，新增二维码，手机扫一扫
     - title: UI中国
       logo: assets/images/logos/uicn.png
